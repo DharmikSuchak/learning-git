@@ -5,5 +5,5 @@ int main(){
     int a=5;
     int b=3;
 
-    cout<<a*b;
+    cout<<"multiply"<<a*b;
 }
